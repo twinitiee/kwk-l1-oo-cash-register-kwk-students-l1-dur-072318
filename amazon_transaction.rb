@@ -9,6 +9,6 @@ class AmazonTransaction
 
   def discount
     @discount
-end 
+  end 
 
 end
