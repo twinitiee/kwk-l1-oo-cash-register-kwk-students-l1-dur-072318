@@ -10,4 +10,5 @@ def total
   return "#{total}"
 end
 
-def
+def add_item(total, )
+  
