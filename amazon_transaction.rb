@@ -6,6 +6,8 @@ class Amazon
   @items = items
   @discount = discount
 end
+
+
 def total
   return "#{total}"
 end
