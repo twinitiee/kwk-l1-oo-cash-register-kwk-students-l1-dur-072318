@@ -12,7 +12,9 @@ class AmazonTransaction
   end 
   
   def total
-    return total
+   @total
   end
+  
+  
 
 end
