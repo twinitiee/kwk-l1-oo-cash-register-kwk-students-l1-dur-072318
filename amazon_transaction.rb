@@ -9,9 +9,9 @@ class Amazon
 end
 
 
-def total
-  return "#{total}"
-end
+  def total
+    return total
+  end
 end
 
 # def add_item(title, price)
