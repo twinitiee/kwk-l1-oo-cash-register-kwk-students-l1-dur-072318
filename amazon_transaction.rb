@@ -1,4 +1,5 @@
 # Code your cash register here!
 
-def Amazon
+class Amazon
+  def initialize(total =0)
   
