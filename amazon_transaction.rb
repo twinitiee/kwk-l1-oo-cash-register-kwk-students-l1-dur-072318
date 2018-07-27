@@ -21,6 +21,7 @@ class AmazonTransaction
     @price = price
     @total +=price
     @items << title 
+    @total = price * quantity
   end
   
 
