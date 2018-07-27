@@ -1,6 +1,7 @@
 # Code your cash register here!
 
 class Amazon
+  attr_accessor
   def initialize(total =0, items =[], discount)
   @total = total 
   @items = items
