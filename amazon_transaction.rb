@@ -2,18 +2,10 @@
 
 class Amazon
   attr_accessor :total, :items, :discount
-  def initialize(total =0, items =[], discount)
+  def initialize(total =0, items =[])
    @total = total 
    @items = items
-   @discount = discount
   end
 
 
-  def total
-    return total
-  end
 end
-
-# def add_item(title, price)
-  
-  
